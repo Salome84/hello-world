@@ -1,2 +1,4 @@
 # hello-world
-just for training
+Hello everybodey
+
+I'm new in Git and I like to learn more about it !
